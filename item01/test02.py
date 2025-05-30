@@ -4,4 +4,7 @@ for t in math_list:
     if i % 2 == 0:
         t *= 2
         print(t)
+    elif i % 3 == 0:
+        t *= 3
+        print(t)
     i += 1
