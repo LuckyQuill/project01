@@ -7,4 +7,7 @@ for t in math_list:
     elif i % 3 == 0:
         t *= 3
         print(t)
+    else:
+        print(t * 5)
     i += 1
+
