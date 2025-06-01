@@ -12,3 +12,4 @@ for t in math_list:
         print(t * 5)
     i += 1
 
+print(i)
