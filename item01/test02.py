@@ -10,6 +10,10 @@ for t in math_list:
         print(t)
     else:
         print(t * 5)
+    if t <= 30:
+        print("笑了")
+    else:
+        print("哈气了")
     i += 1
 
 print(i)
