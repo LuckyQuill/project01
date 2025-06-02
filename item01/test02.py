@@ -19,3 +19,4 @@ for t in math_list:
     i += 1
 
 print(i)
+print(math2_list)
