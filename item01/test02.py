@@ -11,9 +11,9 @@ for t in math_list:
     else:
         print(t * 5)
     if t <= 30:
-        print(f"笑了:{t}")
+        print(f"气笑了:{t}")
     else:
-        print(f"哈气了{t}")
+        print(f"哈气了:{t}")
     i += 1
 
 print(i)
